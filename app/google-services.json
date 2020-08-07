@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "191256903145",
+    "firebase_url": "https://the-witness-eec95.firebaseio.com",
+    "project_id": "the-witness-eec95",
+    "storage_bucket": "the-witness-eec95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191256903145:android:c1be4e97c02198285a5f78",
+        "android_client_info": {
+          "package_name": "com.example.thewitness2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191256903145-44d77b4mvget12q5kpgr7aifu7blltk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thewitness2",
+            "certificate_hash": "73c80e950ff2663fabb6aa63ea450fa408d6b511"
+          }
+        },
+        {
+          "client_id": "191256903145-hnvcn0oggm3ljqnf7s8tuv4ldjgps7ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyoRFm2jaOQv3FLYPoM2-OKvWI0rI9zcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191256903145-hnvcn0oggm3ljqnf7s8tuv4ldjgps7ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
